@@ -1,0 +1,31 @@
+## Structure
+
+personal-os/
+│
+├── README.md
+├── CHANGELOG.md
+│
+├── journal/
+│   ├── YYYY-MM-DD.md
+│
+├── code-labs/
+│   ├── experiments/
+│   ├── tutorials/
+│   └── projects/
+│
+├── frameworks/
+│   ├── decision-making/
+│   ├── systems-thinking/
+│   ├── cognitive-architecture/
+│
+├── book-drafts/
+│   ├── outline.md
+│   ├── chapter-01.md
+│
+├── career/
+│   ├── options-analysis.md
+│   ├── skill-roadmap.md
+│
+└── ideas/
+    ├── raw-notes.md
+    ├── thought-experiments.md
